@@ -1,0 +1,22 @@
+.img{
+    border-radius: 50%;
+    
+}
+
+.esquerda{
+    float: left;
+    padding-right: 500px;
+    border-right: black solid 2px;
+    padding-bottom: 300px;
+}
+
+.direita{
+   
+    float: right;
+   margin-right: 400px;
+    padding-bottom: 300px;
+}
+
+.subtitulo{
+    
+}
